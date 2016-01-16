@@ -1,0 +1,205 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="bigbiral.com" resolutions="1x" timestamp="1452714676775">
+  <folder name="css">
+    <file name="site_global.css" crc="31452529"/>
+    <file name="index.css" crc="521202088" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="museredirect.js" crc="40941066" ref="tablet>index"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="tablet>index:index"/>
+    <file name="museutils.js" crc="183364071" ref="tablet>index:index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="tablet>index:index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="img1.jpg" crc="4155607681" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img2.jpg" crc="305689423" seo="true" ref="index"/>
+    <file name="img3.jpg" crc="4112435721" seo="true" ref="index"/>
+    <file name="img4.jpg" crc="4114087264" seo="true" ref="index"/>
+    <file name="img5.jpg" crc="99005175" seo="true" ref="index"/>
+    <file name="img6.jpg" crc="3776555510" seo="true" ref="index"/>
+    <file name="img7.jpg" crc="4154823681" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u85.png" crc="4292096925" ref="index"/>
+    <file name="u85-r.png" crc="3968537388" ref="index"/>
+    <file name="u110.png" crc="3795092713" ref="index"/>
+    <file name="u110-r.png" crc="3836691463" ref="index"/>
+    <file name="u103.png" crc="403802148" ref="index"/>
+    <file name="u103-r.png" crc="4062880475" ref="index"/>
+    <file name="u96.png" crc="278752090" ref="index"/>
+    <file name="u96-r.png" crc="3795732484" ref="index"/>
+    <file name="u177.png" crc="3776329285" ref="index"/>
+    <file name="u177-r.png" crc="431595375" ref="index"/>
+    <file name="u117.png" crc="4078326351" ref="index"/>
+    <file name="u117-r.png" crc="4130749366" ref="index"/>
+    <file name="logo-out-full.svg" crc="4069632029" ref="index"/>
+    <file name="logo-out-full_poster_u2900.png" crc="4090999626" ref="index"/>
+    <file name="u693.png" crc="414021119" ref="index"/>
+    <file name="u693-r.png" crc="7445582" ref="index"/>
+    <file name="u693-a.png" crc="7445582" ref="index"/>
+    <file name="u707.png" crc="398670843" ref="index"/>
+    <file name="u707-r.png" crc="47940527" ref="index"/>
+    <file name="u707-a.png" crc="47940527" ref="index"/>
+    <file name="u714.png" crc="48858778" ref="index"/>
+    <file name="u714-r.png" crc="127871393" ref="index"/>
+    <file name="u714-a.png" crc="127871393" ref="index"/>
+    <file name="u721.png" crc="3956008312" ref="index"/>
+    <file name="u721-r.png" crc="535238761" ref="index"/>
+    <file name="u721-a.png" crc="535238761" ref="index"/>
+    <file name="u726.png" crc="4088564928" ref="index"/>
+    <file name="u726-r.png" crc="492356757" ref="index"/>
+    <file name="u726-a.png" crc="492356757" ref="index"/>
+    <file name="u733.png" crc="495735798" ref="index"/>
+    <file name="u733-r.png" crc="3862710883" ref="index"/>
+    <file name="u733-a.png" crc="3862710883" ref="index"/>
+    <file name="u742.png" crc="4223196089" ref="index"/>
+    <file name="u742-r.png" crc="495979503" ref="index"/>
+    <file name="u742-a.png" crc="495979503" ref="index"/>
+    <file name="u2789-4.png" crc="255374305" ref="index"/>
+    <file name="u786-4.png" crc="3825962639" ref="index"/>
+    <file name="chitas.jpg" crc="448923828" ref="index"/>
+    <file name="cougar1.jpg" crc="205561589" ref="index"/>
+    <file name="jaguar-u1221-fr.jpg" crc="3813428031" ref="index"/>
+    <file name="leopard.jpg" crc="3877917897" ref="index"/>
+    <file name="african_lion_king.jpg" crc="4054970423" ref="index"/>
+    <file name="snow-leopard.jpg" crc="3814306329" ref="index"/>
+    <file name="tiger.jpg" crc="285067839" ref="index"/>
+    <file name="u963.png" crc="4060789360" ref="index"/>
+    <file name="u963-r.png" crc="3878598931" ref="index"/>
+    <file name="u963-a.png" crc="3878598931" ref="index"/>
+    <file name="u964.png" crc="4220254735" ref="index"/>
+    <file name="u964-r.png" crc="4073109262" ref="index"/>
+    <file name="u964-a.png" crc="4073109262" ref="index"/>
+    <file name="u965.png" crc="4241416155" ref="index"/>
+    <file name="u965-r.png" crc="511218813" ref="index"/>
+    <file name="u965-a.png" crc="511218813" ref="index"/>
+    <file name="u966.png" crc="92324005" ref="index"/>
+    <file name="u966-r.png" crc="4215096853" ref="index"/>
+    <file name="u966-a.png" crc="4215096853" ref="index"/>
+    <file name="u967.png" crc="82099444" ref="index"/>
+    <file name="u967-r.png" crc="4239560964" ref="index"/>
+    <file name="u967-a.png" crc="4239560964" ref="index"/>
+    <file name="u968.png" crc="3797305368" ref="index"/>
+    <file name="u968-r.png" crc="70194988" ref="index"/>
+    <file name="u968-a.png" crc="70194988" ref="index"/>
+    <file name="u969.png" crc="339236181" ref="index"/>
+    <file name="u969-r.png" crc="4023017744" ref="index"/>
+    <file name="u969-a.png" crc="4023017744" ref="index"/>
+    <file name="u795-5.png" crc="155785133" ref="index"/>
+    <file name="u1296.png" crc="3843609433" ref="index"/>
+    <file name="u1296-r.png" crc="4183893862" ref="index"/>
+    <file name="u1300-5.png" crc="397352951" ref="index"/>
+    <file name="u1319.png" crc="3912385773" ref="index"/>
+    <file name="u1319-r.png" crc="4105632138" ref="index"/>
+    <file name="u1319-a.png" crc="4105632138" ref="index"/>
+    <file name="u1325.png" crc="287795035" ref="index"/>
+    <file name="u1325-r.png" crc="4167506618" ref="index"/>
+    <file name="u1325-a.png" crc="4167506618" ref="index"/>
+    <file name="u1326.png" crc="341117172" ref="index"/>
+    <file name="u1326-r.png" crc="4003506157" ref="index"/>
+    <file name="u1326-a.png" crc="4003506157" ref="index"/>
+    <file name="u1525.png" crc="4291518931" ref="index"/>
+    <file name="u1525-r.png" crc="169921239" ref="index"/>
+    <file name="u1525-a.png" crc="169921239" ref="index"/>
+    <file name="cclogofw-u1419-fr.png" crc="3880700103" ref="index"/>
+    <file name="cclogofw-u1419-r-fr.png" crc="58251601" ref="index"/>
+    <file name="sitiger.jpg" crc="330123164" ref="index"/>
+    <file name="lion.jpg" crc="4169826363" ref="index"/>
+    <file name="jaguar.jpg" crc="434677411" ref="index"/>
+    <file name="leopard1.jpg" crc="148430858" ref="index"/>
+    <file name="snow_leopard.jpg" crc="103992709" ref="index"/>
+    <file name="sunda_clouded.jpg" crc="3780846832" ref="index"/>
+    <file name="clouded.jpg" crc="4159989523" ref="index"/>
+    <file name="cougarjpg.jpg" crc="106977658" ref="index"/>
+    <file name="cheetah_running_fast_wide.jpg" crc="220879808" ref="index"/>
+    <file name="worldmaps3.svg" crc="33961744" ref="index"/>
+    <file name="worldmaps3_poster_.png" crc="4091818960" ref="index"/>
+    <file name="tiger-u1720-fr.jpg" crc="4165868581" ref="index"/>
+    <file name="african_lion_king-u1721-fr.jpg" crc="251207128" ref="index"/>
+    <file name="jaguar1.jpg" crc="264033045" ref="index"/>
+    <file name="leopard1-u1725-fr.jpg" crc="364131914" ref="index"/>
+    <file name="snow-leopard-u1727-fr.jpg" crc="176114348" ref="index"/>
+    <file name="sunda_clouded-u1747-fr.jpg" crc="4168550866" ref="index"/>
+    <file name="sunda-clouded-leopard-image.jpg" crc="146394518" ref="index"/>
+    <file name="cougar1-u1751-fr.jpg" crc="3810767564" ref="index"/>
+    <file name="cheetah-07.jpg" crc="3961224656" ref="index"/>
+    <file name="tigers.svg" crc="3953522928" ref="index"/>
+    <file name="tigers_poster_.png" crc="331611238" ref="index"/>
+    <file name="u1907-7.png" crc="3868838493" ref="index"/>
+    <file name="lions.svg" crc="370693917" ref="index"/>
+    <file name="lions_poster_.png" crc="4188398154" ref="index"/>
+    <file name="u1908-7.png" crc="132764247" ref="index"/>
+    <file name="jaguar.svg" crc="4200045885" ref="index"/>
+    <file name="jaguar_poster_.png" crc="107174982" ref="index"/>
+    <file name="u1909-9.png" crc="318381044" ref="index"/>
+    <file name="leopards.svg" crc="4234973777" ref="index"/>
+    <file name="leopards_poster_.png" crc="3778043688" ref="index"/>
+    <file name="u1910-7.png" crc="4043135804" ref="index"/>
+    <file name="snowleopards.svg" crc="44288203" ref="index"/>
+    <file name="snowleopards_poster_.png" crc="4190798366" ref="index"/>
+    <file name="u1911-7.png" crc="295251264" ref="index"/>
+    <file name="cloudedleopard.svg" crc="4154168678" ref="index"/>
+    <file name="cloudedleopard_poster_.png" crc="354074668" ref="index"/>
+    <file name="u1912-7.png" crc="72701787" ref="index"/>
+    <file name="sundacloudedleopard.svg" crc="3770252799" ref="index"/>
+    <file name="sundacloudedleopard_poster_.png" crc="4138686805" ref="index"/>
+    <file name="u1913-7.png" crc="425964179" ref="index"/>
+    <file name="cougars.svg" crc="4104084934" ref="index"/>
+    <file name="cougars_poster_.png" crc="517442734" ref="index"/>
+    <file name="u1914-7.png" crc="216530334" ref="index"/>
+    <file name="chettah.svg" crc="21922316" ref="index"/>
+    <file name="chettah_poster_.png" crc="4262096186" ref="index"/>
+    <file name="u1915-7.png" crc="4245805612" ref="index"/>
+    <file name="ss1fw.jpg" crc="330711905" seo="true" ref="index"/>
+    <file name="ss2fw.jpg" crc="16684350" seo="true" ref="index"/>
+    <file name="ss3fw.jpg" crc="184460036" seo="true" ref="index"/>
+    <file name="ss4fw.jpg" crc="13503097" seo="true" ref="index"/>
+    <file name="ss5fw.jpg" crc="3908582734" seo="true" ref="index"/>
+    <file name="ss6fw.jpg" crc="4213984160" seo="true" ref="index"/>
+    <file name="u2575-4.png" crc="4037098978" ref="index"/>
+    <file name="u2576-18.png" crc="4079608351" ref="index"/>
+    <file name="u2173-4.png" crc="356695519" ref="index"/>
+    <file name="strokefw.png" crc="3989120677" ref="index"/>
+    <file name="panthera-logo-800x469fw.png" crc="373412686" seo="true" ref="index"/>
+    <file name="u2176-4.png" crc="30283548" ref="index"/>
+    <file name="263px-wwf_logosvg.png" crc="3772240724" seo="true" ref="index"/>
+    <file name="bigcatrescuelogofw.png" crc="227467930" seo="true" ref="index"/>
+    <file name="u2175-4.png" crc="4074601892" ref="index"/>
+    <file name="bpcc-web-bff-logo.png" crc="4283769334" seo="true" ref="index"/>
+    <file name="u2177-4.png" crc="217225483" ref="index"/>
+    <file name="national_geographic_society.png" crc="3953910830" seo="true" ref="index"/>
+    <file name="u2174-4.png" crc="200021956" ref="index"/>
+    <file name="bigcatswildcatsfw.png" crc="213389493" seo="true" ref="index"/>
+    <file name="wcs_logo_detailfw.png" crc="4244720913" seo="true" ref="index"/>
+    <file name="rotate2fw.png" crc="122798038" ref="index"/>
+    <file name="rotatefw.png" crc="99264942" seo="true" ref="index"/>
+    <file name="rotate3fw.png" crc="3810245509" ref="index"/>
+    <file name="rotate4fw.png" crc="4034087537" ref="index"/>
+    <file name="rotate1fw.png" crc="509102562" ref="index"/>
+    <file name="u2514-4.png" crc="3781299611" ref="index"/>
+    <file name="arrowfw.png" crc="3841894416" seo="true" ref="index"/>
+    <file name="u2516-28.png" crc="47320375" ref="index"/>
+    <file name="u2517-22.png" crc="3893750256" ref="index"/>
+    <file name="muse_cc_splash.png" crc="150726547" seo="true" ref="index"/>
+    <file name="adobe_fireworks_cs6_icon.png" crc="4151983049" seo="true" ref="index"/>
+    <file name="adobe_illustrator_icon_cs6.png" crc="4171933643" seo="true" ref="index"/>
+    <file name="me.jpg" crc="4155020115" ref="index"/>
+    <file name="u2568-8.png" crc="4160070062" ref="index"/>
+    <file name="facefw.png" crc="4142275294" seo="true" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="3964970448" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4238766532" seo="true" mt="1452713377229" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="24868182" seo="true" mt="1452714586062" redirect="true"/>
+</manifest>
